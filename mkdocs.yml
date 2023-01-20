@@ -69,6 +69,7 @@ nav:
 theme:
   name:
     material
+  custom_dir: material
   language: 'zh'
   features:
     # - announce.dismiss
