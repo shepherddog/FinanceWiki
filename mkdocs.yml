@@ -2,11 +2,11 @@
 site_name: ZM-Wiki 
 site_description: 个人知识整合站点，提供有趣又实用的金融、产品知识以及其他有帮助的内容。
 site_author: Zhimin Bai
-site_url: https://shepherddog.github.io/wiki/
+site_url: https://zhiminbai.github.io/wiki/
 
 # Repository
-repo_name: shepherddog/wiki
-repo_url: https://github.com/shepherddog/wiki/
+repo_name: zhiminbai/wiki
+repo_url: https://github.com/zhiminbai/wiki/
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2022 Zhimin Bai
